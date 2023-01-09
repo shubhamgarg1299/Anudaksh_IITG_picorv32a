@@ -1,0 +1,24 @@
+IITG
+[Sunday 08 January 2023 02:54:50 PM IST]:[INSTALLATION]: This is installation.log, which shows the loging of install_openLane.sh:
+==============================================
+----Basic Toolschain Installation----
+==============================================
+
+Hit:2 http://ppa.launchpad.net/js-reynaud/kicad-4/ubuntu bionic InRelease
+Get:3 http://security.ubuntu.com/ubuntu focal-security InRelease [114 kB]
+Hit:4 http://ppa.launchpad.net/ethereum/ethereum-dev/ubuntu focal InRelease
+Hit:5 http://in.archive.ubuntu.com/ubuntu focal InRelease
+Hit:1 https://apt.llvm.org/xenial llvm-toolchain-xenial-6.0 InRelease
+Get:7 http://in.archive.ubuntu.com/ubuntu focal-updates InRelease [114 kB]
+Hit:8 http://ppa.launchpad.net/ethereum/ethereum/ubuntu focal InRelease
+Hit:9 http://ppa.launchpad.net/git-core/ppa/ubuntu focal InRelease
+Hit:6 https://packagecloud.io/AtomEditor/atom/any any InRelease
+Ign:10 http://ppa.launchpad.net/saltmakrell/ppa/ubuntu focal InRelease
+Hit:11 http://ppa.launchpad.net/ubuntu-toolchain-r/test/ubuntu focal InRelease
+Ign:12 http://ppa.launchpad.net/webupd8team/atom/ubuntu focal InRelease
+Get:13 http://in.archive.ubuntu.com/ubuntu focal-backports InRelease [108 kB]
+Err:14 http://ppa.launchpad.net/saltmakrell/ppa/ubuntu focal Release
+  404  Not Found [IP: 185.125.190.52 80]
+Err:15 http://ppa.launchpad.net/webupd8team/atom/ubuntu focal Release
+  404  Not Found [IP: 185.125.190.52 80]
+Reading package lists...
